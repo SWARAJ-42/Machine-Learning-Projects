@@ -4,4 +4,6 @@ pandas
 scikit-learn
 pytorch
 torchvision
+torchaudio
 seaborn
+matplotlib
