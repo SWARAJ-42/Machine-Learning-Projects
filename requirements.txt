@@ -1,0 +1,7 @@
+xgboost
+numpy
+pandas
+scikit-learn
+pytorch
+torchvision
+seaborn
