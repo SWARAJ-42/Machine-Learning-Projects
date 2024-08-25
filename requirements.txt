@@ -7,3 +7,4 @@ torchvision
 torchaudio
 seaborn
 matplotlib
+nltk
